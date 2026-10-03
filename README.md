@@ -1,0 +1,1 @@
+LoanScope is a full‑stack loan calculation application built with a React + Vite frontend and an Express.js backend running inside WSL. Users can input loan details and receive calculated monthly payments, total interest, and total cost.
